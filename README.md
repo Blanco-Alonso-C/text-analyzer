@@ -82,7 +82,7 @@ We give you 0.07 weirdness points
 We found 0.0 explicit words  
 We found 0.0 offensive words
 
-IA score out of 100: 0.00  
+AI score out of 100: 0.00  
 Spanish score out of 100: 100.00  
 English score out of 100: 0.00
 
