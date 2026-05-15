@@ -1,6 +1,0 @@
-numpy
-math
-matplotlib
-seaborn
-importlib
-pathlib
