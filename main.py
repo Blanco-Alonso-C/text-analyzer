@@ -1,7 +1,7 @@
 
 from utils.sorting_cleaning_functions import alphabetical_number_order_keys, order_by_quantity_values
 from statistic.stats_functions import calculate_statistic_parameters
-from ia_checker.ai_checker_functions import ai_checker_stats, ai_checker_lexical_richness
+from ai_checker.ai_checker_functions import ai_checker_stats, ai_checker_lexical_richness
 from text_processing.processing_functions import preprocess, language_processing, core_dictionary_filling
 from text_processing.open_file_functions import open_file
 import data.dictionaries as dicts
